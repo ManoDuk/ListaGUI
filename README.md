@@ -1,2 +1,7 @@
-# ListaGUI
-Um exemplo de uma lista com um sistema GUI, desenvolvido com PyQt6 ! Pode ser usado para sistemas de cadastros, sistema de tarefas, entre outros...
+<div align='center'>
+
+  # ListaGUI
+  #### Este Código é apenas um exemplo guiado de como realizar a adição e remoção de listas com o PyQt6 
+  <hl>
+  <img src='Lista GUI.png'>
+</div>
